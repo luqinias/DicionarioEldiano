@@ -30,4 +30,3 @@ HTML, CSS e JavaScript.
 ### Lucas Lira
 Estudante em Engenharia de Computação na UFU e técnico de TI, amante de tecnologia e inovação, atualmente dedico meu tempo livre para estudar, onde meu principal foco é atuar no mercado backend com Java, Python.
 
-**voar o mais alto que puder**
